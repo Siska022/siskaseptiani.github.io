@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #eae487;
+}
+
+#projects {
+  background-color: #eae487;
+}
+
+#skills {
+  background-color: #eae487;
+}
+
+section {
+  padding-top: 5rem;
+}
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500px;
+  color: rgb(84, 128, 128);
+}
+
+body {
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  line-height: 50px;
+  color: rgb(226, 231, 145);
+  background-image: url(tactile_noise.webp);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(84, 128, 128);
+}
