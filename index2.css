@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  position: relative;
+  font-size: 5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+h3 {
+  position: relative;
+  font-weight: 200;
+  letter-spacing: 2px;
+}
+
+.tugas {
+  display: flow-root;
+  list-style: decimal;
+  width: 350px;
+  justify-content: space-between;
+  align-items: center;
+  color: antiquewhite;
+  padding: 20px;
+  font-size: x-large;
+}
+.tugas li a {
+  color: antiquewhite;
+}
+
+body {
+  margin-top: 100px;
+  background: #f4a261;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  color: #f4a261;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.item {
+  width: 110%;
+  -webkit-mask-repeat: no-repeat;
+}
+.item img {
+  width: 100%;
+}
+
+.one {
+  -webkit-mask-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8c3ZnIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGZpbGw9IiNGRjAwNjYiIGQ9Ik00NS41LC00NC43QzUxLjksLTI4LjIsNDUuMywtOS43LDQyLDExLjZDMzguOCwzMi45LDM4LjksNTcuMSwyOC44LDYzLjNDMTguNiw2OS42LC0xLjgsNTcuOSwtMTguNCw0Ni43Qy0zNC45LDM1LjQsLTQ3LjUsMjQuNiwtNTEsMTEuMUMtNTQuNSwtMi40LC00OSwtMTguNSwtMzksLTM1LjhDLTI5LC01My4xLC0xNC41LC03MS42LDIuNSwtNzMuNkMxOS41LC03NS42LDM5LjEsLTYxLjIsNDUuNSwtNDQuN1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMCAxMDApIiAvPgo8L3N2Zz4K);
+}
