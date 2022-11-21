@@ -7,8 +7,23 @@ h2 {
 body {
   font-family: 'Arial Narrow', Arial, sans-serif;
   line-height: 50px;
-  color: rgb(226, 231, 145);
+  color: #e2e791;
   background-image: url(tactile_noise.webp);
+  letter-spacing: 2px;
+}
+
+tr:hover {
+  background-color: #e2e791;
+  color: black;
+}
+
+h2 {
+  letter-spacing: 10px;
+}
+
+.home:hover {
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 20px;
 }
 
 a {
