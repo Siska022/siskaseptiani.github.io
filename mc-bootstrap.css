@@ -6,6 +6,11 @@
   background-attachment: fixed;
 }
 
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
 #styles {
   background-color: #212529;
   color: whitesmoke;
@@ -31,7 +36,7 @@ h2 {
 }
 
 #contact h1 {
-  font-size: 80px;
+  font-size: 70px;
 }
 
 #contact p {
