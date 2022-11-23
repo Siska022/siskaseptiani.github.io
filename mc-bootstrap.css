@@ -4,6 +4,8 @@
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
+  width: 100%;
+  height: auto;
 }
 
 .img-fluid {
@@ -33,10 +35,12 @@ h2 {
   background-image: url(projects/kaos2.jpg);
   background-size: cover;
   background-attachment: fixed;
+  width: 100%;
+  height: auto;
 }
 
 #contact h1 {
-  font-size: 70px;
+  font-size: 60px;
 }
 
 #contact p {
