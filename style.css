@@ -34,3 +34,8 @@ a {
 .table-container {
   overflow: auto;
 }
+
+.foto img {
+  max-width: 100%;
+  height: auto;
+}
