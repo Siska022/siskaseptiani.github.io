@@ -27,20 +27,19 @@ h2 {
   font-size: x-large;
 }
 
+#contact,
 #about {
-  background-color: #f5f5f5;
-}
-
-#contact {
-  background-image: url(projects/kaos2.jpg);
-  background-size: cover;
+  background-image: url(projects/custom2.png);
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: right;
   background-attachment: fixed;
   width: 100%;
   height: auto;
 }
 
 #contact h1 {
-  font-size: 60px;
+  font-size: 45px;
 }
 
 #contact p {

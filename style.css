@@ -30,3 +30,7 @@ a {
   text-decoration: none;
   color: rgb(84, 128, 128);
 }
+
+.table-container {
+  overflow: auto;
+}
