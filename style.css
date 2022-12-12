@@ -22,14 +22,13 @@ h2 {
 }
 
 .home:hover {
-  font-family: 'Gill Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'La belle aurore';
+  font-size: 30px;
 }
 
 a {
+  font-family: 'La belle aurore';
   text-decoration: none;
-  font-size: x-large;
-  font-family: 'La Belle Aurore';
   color: #e2e791;
 }
 
