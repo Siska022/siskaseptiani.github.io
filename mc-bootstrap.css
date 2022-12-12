@@ -27,8 +27,7 @@ h2 {
   font-size: x-large;
 }
 
-#contact,
-#about {
+#contact {
   background-image: url(projects/custom2.png);
   background-repeat: no-repeat;
   background-size: 70%;
