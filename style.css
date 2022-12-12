@@ -1,7 +1,7 @@
 h2 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 500px;
-  color: rgb(84, 128, 128);
+  color: #548080;
 }
 
 body {
@@ -28,7 +28,9 @@ h2 {
 
 a {
   text-decoration: none;
-  color: rgb(84, 128, 128);
+  font-size: x-large;
+  font-family: 'La Belle Aurore';
+  color: #e2e791;
 }
 
 .table-container {
