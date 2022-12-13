@@ -1,3 +1,8 @@
+@font-face {
+  font-family: cheap pine;
+  src: url(font/CheapPine.otf);
+}
+
 .jumbotron {
   padding-top: 7rem;
   background-image: url(projects/nyablon.jpg);
@@ -20,7 +25,7 @@
 }
 
 h2 {
-  font-family: 'cheap pine';
+  font-family: cheap pine;
   font-size: 60px;
   color: #212529;
 }

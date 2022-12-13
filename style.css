@@ -1,3 +1,8 @@
+@font-face {
+  font-family: la belle aurore;
+  src: url(font/LaBelleAurore.ttf);
+}
+
 h2 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: 500px;
@@ -22,12 +27,12 @@ h2 {
 }
 
 .home:hover {
-  font-family: 'La belle aurore';
+  font-family: la belle aurore;
   font-size: 30px;
 }
 
 a {
-  font-family: 'La belle aurore';
+  font-family: la belle aurore;
   text-decoration: none;
   color: #e2e791;
 }
